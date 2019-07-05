@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 2a9117f17cf2e3b4585b0b202fac129a
+timeCreated: 1491139999
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: C_Buffbone_Glb_Chest_Loc
+    100002: C_Buffbone_Glb_Head_Loc
+    100004: C_Head
+    100006: C_Head_L_Ear
+    100008: C_Head_R_Ear
+    100010: C_Jaw
+    100012: C_Neck
+    100014: L_Ankle
+    100016: L_Buffbone_Glb_Foot_Loc
+    100018: L_Clavicle
+    100020: L_Elbow
+    100022: L_Foot
+    100024: L_Head
+    100026: L_Head_L_Ear
+    100028: L_Head_R_Ear
+    100030: L_Hip
+    100032: L_Jaw
+    100034: L_Knee
+    100036: L_Neck
+    100038: L_Paw
+    100040: L_PawToe
+    100042: L_PawToe_inner
+    100044: L_PawToe_outer
+    100046: L_Shoulder
+    100048: L_Toe
+    100050: //RootNode
+    100052: Pelvis
+    100054: R_Ankle
+    100056: R_Buffbone_Glb_Foot_Loc
+    100058: R_Clavicle
+    100060: R_Elbow
+    100062: R_Foot
+    100064: R_Head
+    100066: R_Head_L_Ear
+    100068: R_Head_R_Ear
+    100070: R_Hip
+    100072: R_Jaw
+    100074: R_Knee
+    100076: R_Neck
+    100078: R_Paw
+    100080: R_PawToe
+    100082: R_PawToe_inner
+    100084: R_PawToe_outer
+    100086: R_Shoulder
+    100088: R_Toe
+    100090: Root
+    100092: Spine1
+    100094: Spine2
+    100096: Spine3
+    100098: Tail1
+    100100: Tail2
+    100102: Tail3
+    100104: Tail4
+    400000: C_Buffbone_Glb_Chest_Loc
+    400002: C_Buffbone_Glb_Head_Loc
+    400004: C_Head
+    400006: C_Head_L_Ear
+    400008: C_Head_R_Ear
+    400010: C_Jaw
+    400012: C_Neck
+    400014: L_Ankle
+    400016: L_Buffbone_Glb_Foot_Loc
+    400018: L_Clavicle
+    400020: L_Elbow
+    400022: L_Foot
+    400024: L_Head
+    400026: L_Head_L_Ear
+    400028: L_Head_R_Ear
+    400030: L_Hip
+    400032: L_Jaw
+    400034: L_Knee
+    400036: L_Neck
+    400038: L_Paw
+    400040: L_PawToe
+    400042: L_PawToe_inner
+    400044: L_PawToe_outer
+    400046: L_Shoulder
+    400048: L_Toe
+    400050: //RootNode
+    400052: Pelvis
+    400054: R_Ankle
+    400056: R_Buffbone_Glb_Foot_Loc
+    400058: R_Clavicle
+    400060: R_Elbow
+    400062: R_Foot
+    400064: R_Head
+    400066: R_Head_L_Ear
+    400068: R_Head_R_Ear
+    400070: R_Hip
+    400072: R_Jaw
+    400074: R_Knee
+    400076: R_Neck
+    400078: R_Paw
+    400080: R_PawToe
+    400082: R_PawToe_inner
+    400084: R_PawToe_outer
+    400086: R_Shoulder
+    400088: R_Toe
+    400090: Root
+    400092: Spine1
+    400094: Spine2
+    400096: Spine3
+    400098: Tail1
+    400100: Tail2
+    400102: Tail3
+    400104: Tail4
+    7400000: SpawnAnim
+    7400002: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Pelvis
+        weight: 1
+      - path: Root/Pelvis/L_Hip
+        weight: 1
+      - path: Root/Pelvis/L_Hip/L_Knee
+        weight: 1
+      - path: Root/Pelvis/L_Hip/L_Knee/L_Ankle
+        weight: 1
+      - path: Root/Pelvis/L_Hip/L_Knee/L_Ankle/L_Buffbone_Glb_Foot_Loc
+        weight: 1
+      - path: Root/Pelvis/L_Hip/L_Knee/L_Ankle/L_Foot
+        weight: 1
+      - path: Root/Pelvis/L_Hip/L_Knee/L_Ankle/L_Foot/L_Toe
+        weight: 1
+      - path: Root/Pelvis/R_Hip
+        weight: 1
+      - path: Root/Pelvis/R_Hip/R_Knee
+        weight: 1
+      - path: Root/Pelvis/R_Hip/R_Knee/R_Ankle
+        weight: 1
+      - path: Root/Pelvis/R_Hip/R_Knee/R_Ankle/R_Buffbone_Glb_Foot_Loc
+        weight: 1
+      - path: Root/Pelvis/R_Hip/R_Knee/R_Ankle/R_Foot
+        weight: 1
+      - path: Root/Pelvis/R_Hip/R_Knee/R_Ankle/R_Foot/R_Toe
+        weight: 1
+      - path: Root/Pelvis/Tail1
+        weight: 1
+      - path: Root/Pelvis/Tail1/Tail2
+        weight: 1
+      - path: Root/Pelvis/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Root/Pelvis/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Root/Spine1
+        weight: 1
+      - path: Root/Spine1/Spine2
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/C_Buffbone_Glb_Chest_Loc
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/C_Neck
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/C_Neck/C_Head
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/C_Neck/C_Head/C_Buffbone_Glb_Head_Loc
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/C_Neck/C_Head/C_Head_L_Ear
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/C_Neck/C_Head/C_Head_R_Ear
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/C_Neck/C_Head/C_Jaw
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/L_Clavicle
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/L_Clavicle/L_Shoulder
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/L_Clavicle/L_Shoulder/L_Elbow
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/L_Clavicle/L_Shoulder/L_Elbow/L_Paw
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/L_Clavicle/L_Shoulder/L_Elbow/L_Paw/L_PawToe
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/L_Clavicle/L_Shoulder/L_Elbow/L_Paw/L_PawToe/L_PawToe_inner
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/L_Clavicle/L_Shoulder/L_Elbow/L_Paw/L_PawToe/L_PawToe_outer
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/L_Neck
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/L_Neck/L_Head
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/L_Neck/L_Head/L_Head_L_Ear
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/L_Neck/L_Head/L_Head_R_Ear
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/L_Neck/L_Head/L_Jaw
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/R_Clavicle
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/R_Clavicle/R_Shoulder
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/R_Clavicle/R_Shoulder/R_Elbow
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/R_Clavicle/R_Shoulder/R_Elbow/R_Paw
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/R_Clavicle/R_Shoulder/R_Elbow/R_Paw/R_PawToe
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/R_Clavicle/R_Shoulder/R_Elbow/R_Paw/R_PawToe/R_PawToe_inner
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/R_Clavicle/R_Shoulder/R_Elbow/R_Paw/R_PawToe/R_PawToe_outer
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/R_Neck
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/R_Neck/R_Head
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/R_Neck/R_Head/R_Head_L_Ear
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/R_Neck/R_Head/R_Head_R_Ear
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/R_Neck/R_Head/R_Jaw
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

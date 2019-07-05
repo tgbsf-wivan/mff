@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: b0ced7b30d82abf488c14b674c4fb3df
+timeCreated: 1492257718
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BUFFBONE_CSTM_WEAPON_1
+    100002: BUFFBONE_GLB_CHANNEL_LOC
+    100004: BUFFBONE_GLB_GROUND_LOC
+    100006: BUFFBONE_GLB_WEAPON_1
+    100008: C_BUFFBONE_GLB_CENTER_LOC
+    100010: C_BUFFBONE_GLB_CHEST_LOC
+    100012: C_BUFFBONE_GLB_HEAD_LOC
+    100014: C_BUFFBONE_GLB_LAYOUT_LOC
+    100016: C_BUFFBONE_GLB_OVERHEAD_LOC
+    100018: chest
+    100020: F_hair
+    100022: F_hair_b
+    100024: F_hair_c
+    100026: F_mustache
+    100028: F_mustache_b
+    100030: F_mustache_c
+    100032: //RootNode
+    100034: head
+    100036: L_BUFFBONE_GLB_FOOT_LOC
+    100038: L_BUFFBONE_GLB_HAND_LOC
+    100040: L_calf
+    100042: L_finger
+    100044: L_finger_b
+    100046: L_foot
+    100048: L_forearm
+    100050: L_hair1
+    100052: L_hair_b
+    100054: L_hand
+    100056: L_mustache
+    100058: L_mustache_b
+    100060: L_PARENTING_HAND_LOC
+    100062: L_shoulder
+    100064: L_thigh
+    100066: L_thumb
+    100068: L_thumb_b
+    100070: L_tip
+    100072: L_toe
+    100074: L_uparm
+    100076: R_BUFFBONE_GLB_FOOT_LOC
+    100078: R_BUFFBONE_GLB_HAND_LOC
+    100080: R_calf
+    100082: R_finger
+    100084: R_finger_b
+    100086: R_foot
+    100088: R_forearm
+    100090: R_hair1
+    100092: R_hair_b
+    100094: R_hand
+    100096: R_mustache
+    100098: R_mustache_b
+    100100: R_PARENTING_HAND_LOC
+    100102: R_shoulder
+    100104: R_thigh
+    100106: R_thumb
+    100108: R_thumb_b
+    100110: R_tip
+    100112: R_toe
+    100114: R_uparm
+    100116: root
+    100118: Snap_Weapon2World
+    100120: stomach
+    100122: transformGragas
+    100124: waist
+    100126: weapon
+    100128: weapon_b
+    400000: BUFFBONE_CSTM_WEAPON_1
+    400002: BUFFBONE_GLB_CHANNEL_LOC
+    400004: BUFFBONE_GLB_GROUND_LOC
+    400006: BUFFBONE_GLB_WEAPON_1
+    400008: C_BUFFBONE_GLB_CENTER_LOC
+    400010: C_BUFFBONE_GLB_CHEST_LOC
+    400012: C_BUFFBONE_GLB_HEAD_LOC
+    400014: C_BUFFBONE_GLB_LAYOUT_LOC
+    400016: C_BUFFBONE_GLB_OVERHEAD_LOC
+    400018: chest
+    400020: F_hair
+    400022: F_hair_b
+    400024: F_hair_c
+    400026: F_mustache
+    400028: F_mustache_b
+    400030: F_mustache_c
+    400032: //RootNode
+    400034: head
+    400036: L_BUFFBONE_GLB_FOOT_LOC
+    400038: L_BUFFBONE_GLB_HAND_LOC
+    400040: L_calf
+    400042: L_finger
+    400044: L_finger_b
+    400046: L_foot
+    400048: L_forearm
+    400050: L_hair1
+    400052: L_hair_b
+    400054: L_hand
+    400056: L_mustache
+    400058: L_mustache_b
+    400060: L_PARENTING_HAND_LOC
+    400062: L_shoulder
+    400064: L_thigh
+    400066: L_thumb
+    400068: L_thumb_b
+    400070: L_tip
+    400072: L_toe
+    400074: L_uparm
+    400076: R_BUFFBONE_GLB_FOOT_LOC
+    400078: R_BUFFBONE_GLB_HAND_LOC
+    400080: R_calf
+    400082: R_finger
+    400084: R_finger_b
+    400086: R_foot
+    400088: R_forearm
+    400090: R_hair1
+    400092: R_hair_b
+    400094: R_hand
+    400096: R_mustache
+    400098: R_mustache_b
+    400100: R_PARENTING_HAND_LOC
+    400102: R_shoulder
+    400104: R_thigh
+    400106: R_thumb
+    400108: R_thumb_b
+    400110: R_tip
+    400112: R_toe
+    400114: R_uparm
+    400116: root
+    400118: Snap_Weapon2World
+    400120: stomach
+    400122: transformGragas
+    400124: waist
+    400126: weapon
+    400128: weapon_b
+    4300000: transformGragas
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: transformGragas
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BUFFBONE_GLB_CHANNEL_LOC
+        weight: 1
+      - path: BUFFBONE_GLB_GROUND_LOC
+        weight: 1
+      - path: C_BUFFBONE_GLB_CENTER_LOC
+        weight: 1
+      - path: C_BUFFBONE_GLB_LAYOUT_LOC
+        weight: 1
+      - path: C_BUFFBONE_GLB_OVERHEAD_LOC
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/C_BUFFBONE_GLB_CHEST_LOC
+        weight: 1
+      - path: root/L_thigh
+        weight: 1
+      - path: root/L_thigh/L_calf
+        weight: 1
+      - path: root/L_thigh/L_calf/L_BUFFBONE_GLB_FOOT_LOC
+        weight: 1
+      - path: root/L_thigh/L_calf/L_foot
+        weight: 1
+      - path: root/L_thigh/L_calf/L_foot/L_toe
+        weight: 1
+      - path: root/L_thigh/L_calf/L_foot/L_toe/L_tip
+        weight: 1
+      - path: root/R_thigh
+        weight: 1
+      - path: root/R_thigh/R_calf
+        weight: 1
+      - path: root/R_thigh/R_calf/R_BUFFBONE_GLB_FOOT_LOC
+        weight: 1
+      - path: root/R_thigh/R_calf/R_foot
+        weight: 1
+      - path: root/R_thigh/R_calf/R_foot/R_toe
+        weight: 1
+      - path: root/R_thigh/R_calf/R_foot/R_toe/R_tip
+        weight: 1
+      - path: root/stomach
+        weight: 1
+      - path: root/waist
+        weight: 1
+      - path: root/waist/chest
+        weight: 1
+      - path: root/waist/chest/head
+        weight: 1
+      - path: root/waist/chest/head/C_BUFFBONE_GLB_HEAD_LOC
+        weight: 1
+      - path: root/waist/chest/head/F_hair
+        weight: 1
+      - path: root/waist/chest/head/F_hair/F_hair_b
+        weight: 1
+      - path: root/waist/chest/head/F_hair/F_hair_b/F_hair_c
+        weight: 1
+      - path: root/waist/chest/head/F_hair/L_hair1
+        weight: 1
+      - path: root/waist/chest/head/F_hair/L_hair1/L_hair_b
+        weight: 1
+      - path: root/waist/chest/head/F_hair/R_hair1
+        weight: 1
+      - path: root/waist/chest/head/F_hair/R_hair1/R_hair_b
+        weight: 1
+      - path: root/waist/chest/head/F_mustache
+        weight: 1
+      - path: root/waist/chest/head/F_mustache/F_mustache_b
+        weight: 1
+      - path: root/waist/chest/head/F_mustache/F_mustache_b/F_mustache_c
+        weight: 1
+      - path: root/waist/chest/head/L_mustache
+        weight: 1
+      - path: root/waist/chest/head/L_mustache/L_mustache_b
+        weight: 1
+      - path: root/waist/chest/head/R_mustache
+        weight: 1
+      - path: root/waist/chest/head/R_mustache/R_mustache_b
+        weight: 1
+      - path: root/waist/chest/L_shoulder
+        weight: 1
+      - path: root/waist/chest/L_shoulder/L_uparm
+        weight: 1
+      - path: root/waist/chest/L_shoulder/L_uparm/L_forearm
+        weight: 1
+      - path: root/waist/chest/L_shoulder/L_uparm/L_forearm/L_BUFFBONE_GLB_HAND_LOC
+        weight: 1
+      - path: root/waist/chest/L_shoulder/L_uparm/L_forearm/L_hand
+        weight: 1
+      - path: root/waist/chest/L_shoulder/L_uparm/L_forearm/L_hand/L_finger
+        weight: 1
+      - path: root/waist/chest/L_shoulder/L_uparm/L_forearm/L_hand/L_finger/L_finger_b
+        weight: 1
+      - path: root/waist/chest/L_shoulder/L_uparm/L_forearm/L_hand/L_thumb
+        weight: 1
+      - path: root/waist/chest/L_shoulder/L_uparm/L_forearm/L_hand/L_thumb/L_thumb_b
+        weight: 1
+      - path: root/waist/chest/L_shoulder/L_uparm/L_forearm/L_PARENTING_HAND_LOC
+        weight: 1
+      - path: root/waist/chest/R_shoulder
+        weight: 1
+      - path: root/waist/chest/R_shoulder/R_uparm
+        weight: 1
+      - path: root/waist/chest/R_shoulder/R_uparm/R_forearm
+        weight: 1
+      - path: root/waist/chest/R_shoulder/R_uparm/R_forearm/R_BUFFBONE_GLB_HAND_LOC
+        weight: 1
+      - path: root/waist/chest/R_shoulder/R_uparm/R_forearm/R_hand
+        weight: 1
+      - path: root/waist/chest/R_shoulder/R_uparm/R_forearm/R_hand/R_finger
+        weight: 1
+      - path: root/waist/chest/R_shoulder/R_uparm/R_forearm/R_hand/R_finger/R_finger_b
+        weight: 1
+      - path: root/waist/chest/R_shoulder/R_uparm/R_forearm/R_hand/R_thumb
+        weight: 1
+      - path: root/waist/chest/R_shoulder/R_uparm/R_forearm/R_hand/R_thumb/R_thumb_b
+        weight: 1
+      - path: root/waist/chest/R_shoulder/R_uparm/R_forearm/R_hand/weapon
+        weight: 1
+      - path: root/waist/chest/R_shoulder/R_uparm/R_forearm/R_hand/weapon/BUFFBONE_CSTM_WEAPON_1
+        weight: 1
+      - path: root/waist/chest/R_shoulder/R_uparm/R_forearm/R_hand/weapon/BUFFBONE_GLB_WEAPON_1
+        weight: 1
+      - path: root/waist/chest/R_shoulder/R_uparm/R_forearm/R_hand/weapon/weapon_b
+        weight: 1
+      - path: root/waist/chest/R_shoulder/R_uparm/R_forearm/R_PARENTING_HAND_LOC
+        weight: 1
+      - path: Snap_Weapon2World
+        weight: 1
+      - path: transformGragas
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

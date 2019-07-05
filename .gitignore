@@ -1,0 +1,8 @@
+/lol_escape/Build/
+/lol_escape/*.sln
+/lol_escape/*.csproj
+/lol_escape/.vs/
+/lol_escape/Library/
+/lol_escape/Temp/
+
+

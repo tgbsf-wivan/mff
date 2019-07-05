@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 4fb7b97390510894c9aa15c5aa2bb994
+timeCreated: 1492181505
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Buffbone_Glb_Channel_Loc
+    100002: Buffbone_Glb_Ground_Loc
+    100004: C_Buffbone_Glb_Center_Loc
+    100006: C_Buffbone_Glb_Chest_Loc
+    100008: C_Buffbone_Glb_Head_Loc
+    100010: C_Buffbone_Glb_Layout_Loc
+    100012: C_Buffbone_Glb_Overhead_Loc
+    100014: Head
+    100016: //RootNode
+    100018: L_Buffbone_Cstm_Eye
+    100020: L_Buffbone_Glb_Foot_Loc
+    100022: L_Buffbone_Glb_Hand_Loc
+    100024: L_Clavicle
+    100026: L_Elbow
+    100028: L_Foot
+    100030: L_Hip
+    100032: L_Knee
+    100034: L_Paw
+    100036: L_PawToe
+    100038: L_Pincer
+    100040: L_Pincer2
+    100042: L_Shoulder
+    100044: L_Toe
+    100046: Pelvis
+    100048: R_Buffbone_Cstm_Eye
+    100050: R_Buffbone_Glb_Foot_Loc
+    100052: R_Buffbone_Glb_Hand_Loc
+    100054: R_Clavicle
+    100056: R_Elbow
+    100058: R_Foot
+    100060: R_Hip
+    100062: R_Knee
+    100064: R_Paw
+    100066: R_PawToe
+    100068: R_Pincer
+    100070: R_Pincer2
+    100072: R_Shoulder
+    100074: R_Toe
+    100076: Rock1
+    100078: Rock2
+    100080: Rock3
+    100082: Rock4
+    100084: Rock5
+    100086: Root
+    100088: Spine1
+    100090: Tail1
+    100092: Tail2
+    400000: Buffbone_Glb_Channel_Loc
+    400002: Buffbone_Glb_Ground_Loc
+    400004: C_Buffbone_Glb_Center_Loc
+    400006: C_Buffbone_Glb_Chest_Loc
+    400008: C_Buffbone_Glb_Head_Loc
+    400010: C_Buffbone_Glb_Layout_Loc
+    400012: C_Buffbone_Glb_Overhead_Loc
+    400014: Head
+    400016: //RootNode
+    400018: L_Buffbone_Cstm_Eye
+    400020: L_Buffbone_Glb_Foot_Loc
+    400022: L_Buffbone_Glb_Hand_Loc
+    400024: L_Clavicle
+    400026: L_Elbow
+    400028: L_Foot
+    400030: L_Hip
+    400032: L_Knee
+    400034: L_Paw
+    400036: L_PawToe
+    400038: L_Pincer
+    400040: L_Pincer2
+    400042: L_Shoulder
+    400044: L_Toe
+    400046: Pelvis
+    400048: R_Buffbone_Cstm_Eye
+    400050: R_Buffbone_Glb_Foot_Loc
+    400052: R_Buffbone_Glb_Hand_Loc
+    400054: R_Clavicle
+    400056: R_Elbow
+    400058: R_Foot
+    400060: R_Hip
+    400062: R_Knee
+    400064: R_Paw
+    400066: R_PawToe
+    400068: R_Pincer
+    400070: R_Pincer2
+    400072: R_Shoulder
+    400074: R_Toe
+    400076: Rock1
+    400078: Rock2
+    400080: Rock3
+    400082: Rock4
+    400084: Rock5
+    400086: Root
+    400088: Spine1
+    400090: Tail1
+    400092: Tail2
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 222bd19ceddf04d44bd47b677074c97e
+timeCreated: 1492095805
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Buffbone_Cstm_Lip
+    100002: Buffbone_Glb_Channel_Loc
+    100004: Buffbone_Glb_Ground_Loc
+    100006: Buffbone_Glb_Weapon_1
+    100008: C_Buffbone_Glb_Center_Loc
+    100010: C_Buffbone_Glb_Chest_Loc
+    100012: C_Buffbone_Glb_Head_Loc
+    100014: C_Buffbone_Glb_Layout_Loc
+    100016: C_Buffbone_Glb_Overhead_Loc
+    100018: Chest1
+    100020: Chest2
+    100022: //RootNode
+    100024: Head
+    100026: Jaw
+    100028: L_Buffbone_Glb_Foot_Loc
+    100030: L_Buffbone_Glb_Hand_Loc
+    100032: L_Chest
+    100034: L_Clavicle
+    100036: L_Elbow
+    100038: L_Eye
+    100040: L_Fat
+    100042: L_Finger
+    100044: L_Foot
+    100046: L_Hand
+    100048: L_Hip
+    100050: L_KneeLower
+    100052: L_KneeUpper
+    100054: L_Lip
+    100056: L_Mini_Elbow
+    100058: L_Mini_Foot
+    100060: L_Mini_Hand
+    100062: L_Mini_Hip
+    100064: L_Mini_Knee
+    100066: L_Mini_Shoulder
+    100068: L_Mini_Toe
+    100070: L_Mushroom1
+    100072: L_Mushroom2
+    100074: L_Shoulder
+    100076: L_Toe
+    100078: L_Tongue6
+    100080: Mini_Head
+    100082: Mini_Pelvis
+    100084: Mini_Root
+    100086: Mini_Spine1
+    100088: Mini_Spine2
+    100090: Mushroom
+    100092: Pelvis
+    100094: R_Buffbone_Glb_Foot_Loc
+    100096: R_Buffbone_Glb_Hand_Loc
+    100098: R_Chest
+    100100: R_Clavicle
+    100102: R_Elbow
+    100104: R_Eye
+    100106: R_Fat
+    100108: R_Finger
+    100110: R_Foot
+    100112: R_Hand
+    100114: R_Hip
+    100116: R_KneeLower
+    100118: R_KneeUpper
+    100120: R_Lip
+    100122: R_Mini_Elbow
+    100124: R_Mini_Foot
+    100126: R_Mini_Hand
+    100128: R_Mini_Hip
+    100130: R_Mini_Knee
+    100132: R_Mini_Shoulder
+    100134: R_Mini_Toe
+    100136: R_Mushroom1
+    100138: R_Mushroom2
+    100140: R_Mushroom3
+    100142: R_Shoulder
+    100144: R_Toe
+    100146: R_Tongue6
+    100148: Root
+    100150: Spine1
+    100152: Tongue1
+    100154: Tongue2
+    100156: Tongue3
+    100158: Tongue4
+    100160: Tongue5
+    100162: Top_Fat
+    100164: Upper_Lip
+    400000: Buffbone_Cstm_Lip
+    400002: Buffbone_Glb_Channel_Loc
+    400004: Buffbone_Glb_Ground_Loc
+    400006: Buffbone_Glb_Weapon_1
+    400008: C_Buffbone_Glb_Center_Loc
+    400010: C_Buffbone_Glb_Chest_Loc
+    400012: C_Buffbone_Glb_Head_Loc
+    400014: C_Buffbone_Glb_Layout_Loc
+    400016: C_Buffbone_Glb_Overhead_Loc
+    400018: Chest1
+    400020: Chest2
+    400022: //RootNode
+    400024: Head
+    400026: Jaw
+    400028: L_Buffbone_Glb_Foot_Loc
+    400030: L_Buffbone_Glb_Hand_Loc
+    400032: L_Chest
+    400034: L_Clavicle
+    400036: L_Elbow
+    400038: L_Eye
+    400040: L_Fat
+    400042: L_Finger
+    400044: L_Foot
+    400046: L_Hand
+    400048: L_Hip
+    400050: L_KneeLower
+    400052: L_KneeUpper
+    400054: L_Lip
+    400056: L_Mini_Elbow
+    400058: L_Mini_Foot
+    400060: L_Mini_Hand
+    400062: L_Mini_Hip
+    400064: L_Mini_Knee
+    400066: L_Mini_Shoulder
+    400068: L_Mini_Toe
+    400070: L_Mushroom1
+    400072: L_Mushroom2
+    400074: L_Shoulder
+    400076: L_Toe
+    400078: L_Tongue6
+    400080: Mini_Head
+    400082: Mini_Pelvis
+    400084: Mini_Root
+    400086: Mini_Spine1
+    400088: Mini_Spine2
+    400090: Mushroom
+    400092: Pelvis
+    400094: R_Buffbone_Glb_Foot_Loc
+    400096: R_Buffbone_Glb_Hand_Loc
+    400098: R_Chest
+    400100: R_Clavicle
+    400102: R_Elbow
+    400104: R_Eye
+    400106: R_Fat
+    400108: R_Finger
+    400110: R_Foot
+    400112: R_Hand
+    400114: R_Hip
+    400116: R_KneeLower
+    400118: R_KneeUpper
+    400120: R_Lip
+    400122: R_Mini_Elbow
+    400124: R_Mini_Foot
+    400126: R_Mini_Hand
+    400128: R_Mini_Hip
+    400130: R_Mini_Knee
+    400132: R_Mini_Shoulder
+    400134: R_Mini_Toe
+    400136: R_Mushroom1
+    400138: R_Mushroom2
+    400140: R_Mushroom3
+    400142: R_Shoulder
+    400144: R_Toe
+    400146: R_Tongue6
+    400148: Root
+    400150: Spine1
+    400152: Tongue1
+    400154: Tongue2
+    400156: Tongue3
+    400158: Tongue4
+    400160: Tongue5
+    400162: Top_Fat
+    400164: Upper_Lip
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

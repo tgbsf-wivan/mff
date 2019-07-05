@@ -1,0 +1,441 @@
+fileFormatVersion: 2
+guid: 32d41162e836a0b499a08ba385d1692e
+timeCreated: 1492353424
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BallDown
+    100002: BallEye01
+    100004: BallEye02
+    100006: BallEye03
+    100008: BallEyePanels
+    100010: BallUpper
+    100012: BUFFBONE_GLB_CHANNEL_LOC
+    100014: BUFFBONE_GLB_GROUND_LOC
+    100016: BUFFBONE_GLB_GROUND_LOC1
+    100018: BUFFBONE_GLB_WEAPON_1
+    100020: C_BUFFBONE_GLB_CENTER_LOC
+    100022: C_BUFFBONE_GLB_CHEST_LOC
+    100024: C_BUFFBONE_GLB_HEAD_LOC
+    100026: C_BUFFBONE_GLB_LAYOUT_LOC
+    100028: C_BUFFBONE_GLB_LAYOUT_LOC1
+    100030: C_BUFFBONE_GLB_OVERHEAD_LOC
+    100032: Chest
+    100034: Head
+    100036: Hip
+    100038: Key
+    100040: L_BallArm01
+    100042: L_BallArm02
+    100044: L_BallHand
+    100046: L_BallMiddle
+    100048: L_BallThumb01
+    100050: L_BallThumb02
+    100052: L_BallTopPanels
+    100054: L_BUFFBONE_GLB_FOOT_LOC
+    100056: L_BUFFBONE_GLB_HAND_LOC
+    100058: L_Foot
+    100060: L_ForeArm
+    100062: L_hand
+    100064: L_Index
+    100066: L_Index_b
+    100068: L_Knee
+    100070: L_Middle
+    100072: L_Middle_b
+    100074: L_Pinky
+    100076: L_Pinky_b
+    100078: L_Ring
+    100080: L_Ring_b
+    100082: L_Thigh
+    100084: L_Thumb
+    100086: L_Thumb_b
+    100088: L_Toe
+    100090: L_Toe1
+    100092: L_UpArm
+    100094: Mouth
+    100096: //RootNode
+    100098: R_BallArm01
+    100100: R_BallArm02
+    100102: R_BallHand
+    100104: R_BallMiddle
+    100106: R_BallThumb01
+    100108: R_BallThumb02
+    100110: R_BallTopPanels
+    100112: R_BUFFBONE_GLB_FOOT_LOC
+    100114: R_BUFFBONE_GLB_HAND_LOC
+    100116: R_Foot
+    100118: R_ForeArm
+    100120: R_hand
+    100122: R_Index
+    100124: R_Index_b
+    100126: R_Knee
+    100128: R_Middle
+    100130: R_Middle_b
+    100132: R_Pinky
+    100134: R_Pinky_b
+    100136: R_Ring
+    100138: R_Ring_b
+    100140: R_Thigh
+    100142: R_Thumb
+    100144: R_Thumb_b
+    100146: R_Toe
+    100148: R_Toe1
+    100150: R_UpArm
+    100152: Root
+    100154: Skirt01
+    100156: Skirt02
+    100158: Spine
+    100160: SpinnigBottomRidge
+    100162: SpinnigTopRidge
+    100164: transformOrianna_assassin
+    400000: BallDown
+    400002: BallEye01
+    400004: BallEye02
+    400006: BallEye03
+    400008: BallEyePanels
+    400010: BallUpper
+    400012: BUFFBONE_GLB_CHANNEL_LOC
+    400014: BUFFBONE_GLB_GROUND_LOC
+    400016: BUFFBONE_GLB_GROUND_LOC1
+    400018: BUFFBONE_GLB_WEAPON_1
+    400020: C_BUFFBONE_GLB_CENTER_LOC
+    400022: C_BUFFBONE_GLB_CHEST_LOC
+    400024: C_BUFFBONE_GLB_HEAD_LOC
+    400026: C_BUFFBONE_GLB_LAYOUT_LOC
+    400028: C_BUFFBONE_GLB_LAYOUT_LOC1
+    400030: C_BUFFBONE_GLB_OVERHEAD_LOC
+    400032: Chest
+    400034: Head
+    400036: Hip
+    400038: Key
+    400040: L_BallArm01
+    400042: L_BallArm02
+    400044: L_BallHand
+    400046: L_BallMiddle
+    400048: L_BallThumb01
+    400050: L_BallThumb02
+    400052: L_BallTopPanels
+    400054: L_BUFFBONE_GLB_FOOT_LOC
+    400056: L_BUFFBONE_GLB_HAND_LOC
+    400058: L_Foot
+    400060: L_ForeArm
+    400062: L_hand
+    400064: L_Index
+    400066: L_Index_b
+    400068: L_Knee
+    400070: L_Middle
+    400072: L_Middle_b
+    400074: L_Pinky
+    400076: L_Pinky_b
+    400078: L_Ring
+    400080: L_Ring_b
+    400082: L_Thigh
+    400084: L_Thumb
+    400086: L_Thumb_b
+    400088: L_Toe
+    400090: L_Toe1
+    400092: L_UpArm
+    400094: Mouth
+    400096: //RootNode
+    400098: R_BallArm01
+    400100: R_BallArm02
+    400102: R_BallHand
+    400104: R_BallMiddle
+    400106: R_BallThumb01
+    400108: R_BallThumb02
+    400110: R_BallTopPanels
+    400112: R_BUFFBONE_GLB_FOOT_LOC
+    400114: R_BUFFBONE_GLB_HAND_LOC
+    400116: R_Foot
+    400118: R_ForeArm
+    400120: R_hand
+    400122: R_Index
+    400124: R_Index_b
+    400126: R_Knee
+    400128: R_Middle
+    400130: R_Middle_b
+    400132: R_Pinky
+    400134: R_Pinky_b
+    400136: R_Ring
+    400138: R_Ring_b
+    400140: R_Thigh
+    400142: R_Thumb
+    400144: R_Thumb_b
+    400146: R_Toe
+    400148: R_Toe1
+    400150: R_UpArm
+    400152: Root
+    400154: Skirt01
+    400156: Skirt02
+    400158: Spine
+    400160: SpinnigBottomRidge
+    400162: SpinnigTopRidge
+    400164: transformOrianna_assassin
+    4300000: transformOrianna_assassin
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: transformOrianna_assassin
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BallDown
+        weight: 1
+      - path: BallDown/BallEye01
+        weight: 1
+      - path: BallDown/BallEye01/BallEye02
+        weight: 1
+      - path: BallDown/BallEye01/BallEye02/BallEye03
+        weight: 1
+      - path: BallDown/BallEyePanels
+        weight: 1
+      - path: BallDown/SpinnigBottomRidge
+        weight: 1
+      - path: BallUpper
+        weight: 1
+      - path: BallUpper/L_BallArm01
+        weight: 1
+      - path: BallUpper/L_BallArm01/L_BallArm02
+        weight: 1
+      - path: BallUpper/L_BallArm01/L_BallArm02/L_BallHand
+        weight: 1
+      - path: BallUpper/L_BallArm01/L_BallArm02/L_BallHand/L_BallMiddle
+        weight: 1
+      - path: BallUpper/L_BallArm01/L_BallArm02/L_BallHand/L_BallThumb01
+        weight: 1
+      - path: BallUpper/L_BallArm01/L_BallArm02/L_BallHand/L_BallThumb01/L_BallThumb02
+        weight: 1
+      - path: BallUpper/L_BallTopPanels
+        weight: 1
+      - path: BallUpper/R_BallArm01
+        weight: 1
+      - path: BallUpper/R_BallArm01/R_BallArm02
+        weight: 1
+      - path: BallUpper/R_BallArm01/R_BallArm02/R_BallHand
+        weight: 1
+      - path: BallUpper/R_BallArm01/R_BallArm02/R_BallHand/R_BallMiddle
+        weight: 1
+      - path: BallUpper/R_BallArm01/R_BallArm02/R_BallHand/R_BallThumb01
+        weight: 1
+      - path: BallUpper/R_BallArm01/R_BallArm02/R_BallHand/R_BallThumb01/R_BallThumb02
+        weight: 1
+      - path: BallUpper/R_BallTopPanels
+        weight: 1
+      - path: BallUpper/SpinnigTopRidge
+        weight: 1
+      - path: BUFFBONE_GLB_CHANNEL_LOC
+        weight: 1
+      - path: BUFFBONE_GLB_GROUND_LOC
+        weight: 1
+      - path: BUFFBONE_GLB_GROUND_LOC1
+        weight: 1
+      - path: C_BUFFBONE_GLB_CENTER_LOC
+        weight: 1
+      - path: C_BUFFBONE_GLB_LAYOUT_LOC
+        weight: 1
+      - path: C_BUFFBONE_GLB_LAYOUT_LOC1
+        weight: 1
+      - path: C_BUFFBONE_GLB_OVERHEAD_LOC
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Hip
+        weight: 1
+      - path: Root/Hip/L_Thigh
+        weight: 1
+      - path: Root/Hip/L_Thigh/L_Knee
+        weight: 1
+      - path: Root/Hip/L_Thigh/L_Knee/L_BUFFBONE_GLB_FOOT_LOC
+        weight: 1
+      - path: Root/Hip/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: Root/Hip/L_Thigh/L_Knee/L_Foot/L_Toe
+        weight: 1
+      - path: Root/Hip/L_Thigh/L_Knee/L_Foot/L_Toe/L_Toe1
+        weight: 1
+      - path: Root/Hip/R_Thigh
+        weight: 1
+      - path: Root/Hip/R_Thigh/R_Knee
+        weight: 1
+      - path: Root/Hip/R_Thigh/R_Knee/R_BUFFBONE_GLB_FOOT_LOC
+        weight: 1
+      - path: Root/Hip/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: Root/Hip/R_Thigh/R_Knee/R_Foot/R_Toe
+        weight: 1
+      - path: Root/Hip/R_Thigh/R_Knee/R_Foot/R_Toe/R_Toe1
+        weight: 1
+      - path: Root/Hip/Skirt01
+        weight: 1
+      - path: Root/Hip/Skirt02
+        weight: 1
+      - path: Root/Spine
+        weight: 1
+      - path: Root/Spine/Chest
+        weight: 1
+      - path: Root/Spine/Chest/C_BUFFBONE_GLB_CHEST_LOC
+        weight: 1
+      - path: Root/Spine/Chest/Head
+        weight: 1
+      - path: Root/Spine/Chest/Head/C_BUFFBONE_GLB_HEAD_LOC
+        weight: 1
+      - path: Root/Spine/Chest/Head/Mouth
+        weight: 1
+      - path: Root/Spine/Chest/Key
+        weight: 1
+      - path: Root/Spine/Chest/L_UpArm
+        weight: 1
+      - path: Root/Spine/Chest/L_UpArm/L_ForeArm
+        weight: 1
+      - path: Root/Spine/Chest/L_UpArm/L_ForeArm/L_BUFFBONE_GLB_HAND_LOC
+        weight: 1
+      - path: Root/Spine/Chest/L_UpArm/L_ForeArm/L_hand
+        weight: 1
+      - path: Root/Spine/Chest/L_UpArm/L_ForeArm/L_hand/L_Index
+        weight: 1
+      - path: Root/Spine/Chest/L_UpArm/L_ForeArm/L_hand/L_Index/L_Index_b
+        weight: 1
+      - path: Root/Spine/Chest/L_UpArm/L_ForeArm/L_hand/L_Middle
+        weight: 1
+      - path: Root/Spine/Chest/L_UpArm/L_ForeArm/L_hand/L_Middle/L_Middle_b
+        weight: 1
+      - path: Root/Spine/Chest/L_UpArm/L_ForeArm/L_hand/L_Pinky
+        weight: 1
+      - path: Root/Spine/Chest/L_UpArm/L_ForeArm/L_hand/L_Pinky/L_Pinky_b
+        weight: 1
+      - path: Root/Spine/Chest/L_UpArm/L_ForeArm/L_hand/L_Ring
+        weight: 1
+      - path: Root/Spine/Chest/L_UpArm/L_ForeArm/L_hand/L_Ring/L_Ring_b
+        weight: 1
+      - path: Root/Spine/Chest/L_UpArm/L_ForeArm/L_hand/L_Thumb
+        weight: 1
+      - path: Root/Spine/Chest/L_UpArm/L_ForeArm/L_hand/L_Thumb/L_Thumb_b
+        weight: 1
+      - path: Root/Spine/Chest/R_UpArm
+        weight: 1
+      - path: Root/Spine/Chest/R_UpArm/R_ForeArm
+        weight: 1
+      - path: Root/Spine/Chest/R_UpArm/R_ForeArm/BUFFBONE_GLB_WEAPON_1
+        weight: 1
+      - path: Root/Spine/Chest/R_UpArm/R_ForeArm/R_BUFFBONE_GLB_HAND_LOC
+        weight: 1
+      - path: Root/Spine/Chest/R_UpArm/R_ForeArm/R_hand
+        weight: 1
+      - path: Root/Spine/Chest/R_UpArm/R_ForeArm/R_hand/R_Index
+        weight: 1
+      - path: Root/Spine/Chest/R_UpArm/R_ForeArm/R_hand/R_Index/R_Index_b
+        weight: 1
+      - path: Root/Spine/Chest/R_UpArm/R_ForeArm/R_hand/R_Middle
+        weight: 1
+      - path: Root/Spine/Chest/R_UpArm/R_ForeArm/R_hand/R_Middle/R_Middle_b
+        weight: 1
+      - path: Root/Spine/Chest/R_UpArm/R_ForeArm/R_hand/R_Pinky
+        weight: 1
+      - path: Root/Spine/Chest/R_UpArm/R_ForeArm/R_hand/R_Pinky/R_Pinky_b
+        weight: 1
+      - path: Root/Spine/Chest/R_UpArm/R_ForeArm/R_hand/R_Ring
+        weight: 1
+      - path: Root/Spine/Chest/R_UpArm/R_ForeArm/R_hand/R_Ring/R_Ring_b
+        weight: 1
+      - path: Root/Spine/Chest/R_UpArm/R_ForeArm/R_hand/R_Thumb
+        weight: 1
+      - path: Root/Spine/Chest/R_UpArm/R_ForeArm/R_hand/R_Thumb/R_Thumb_b
+        weight: 1
+      - path: transformOrianna_assassin
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

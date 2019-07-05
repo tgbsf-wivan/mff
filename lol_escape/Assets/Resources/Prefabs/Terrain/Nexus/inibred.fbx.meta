@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 78ba4722dcd0e6a44bd5472467ce75ac
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: bone_base
+  - first:
+      1: 100002
+    second: bone_base_piece
+  - first:
+      1: 100004
+    second: bone_base_piece1
+  - first:
+      1: 100006
+    second: bone_base_piece2
+  - first:
+      1: 100008
+    second: bone_base_piece3
+  - first:
+      1: 100010
+    second: bone_base_piece4
+  - first:
+      1: 100012
+    second: bone_base_piece5
+  - first:
+      1: 100014
+    second: bone_base_piece6
+  - first:
+      1: 100016
+    second: bone_crystal_piece
+  - first:
+      1: 100018
+    second: bone_crystal_piece1
+  - first:
+      1: 100020
+    second: bone_crystal_piece2
+  - first:
+      1: 100022
+    second: bone_crystal_piece3
+  - first:
+      1: 100024
+    second: bone_crystal_piece4
+  - first:
+      1: 100026
+    second: bone_crystal_piece5
+  - first:
+      1: 100028
+    second: bone_crystal_piece6
+  - first:
+      1: 100030
+    second: bone_crystal_piece7
+  - first:
+      1: 100032
+    second: bone_crystals
+  - first:
+      1: 100034
+    second: //RootNode
+  - first:
+      1: 100036
+    second: Root
+  - first:
+      1: 100038
+    second: Root_break
+  - first:
+      1: 100040
+    second: Tower
+  - first:
+      1: 100042
+    second: transformSRUAP_ChaosInhibitor
+  - first:
+      4: 400000
+    second: bone_base
+  - first:
+      4: 400002
+    second: bone_base_piece
+  - first:
+      4: 400004
+    second: bone_base_piece1
+  - first:
+      4: 400006
+    second: bone_base_piece2
+  - first:
+      4: 400008
+    second: bone_base_piece3
+  - first:
+      4: 400010
+    second: bone_base_piece4
+  - first:
+      4: 400012
+    second: bone_base_piece5
+  - first:
+      4: 400014
+    second: bone_base_piece6
+  - first:
+      4: 400016
+    second: bone_crystal_piece
+  - first:
+      4: 400018
+    second: bone_crystal_piece1
+  - first:
+      4: 400020
+    second: bone_crystal_piece2
+  - first:
+      4: 400022
+    second: bone_crystal_piece3
+  - first:
+      4: 400024
+    second: bone_crystal_piece4
+  - first:
+      4: 400026
+    second: bone_crystal_piece5
+  - first:
+      4: 400028
+    second: bone_crystal_piece6
+  - first:
+      4: 400030
+    second: bone_crystal_piece7
+  - first:
+      4: 400032
+    second: bone_crystals
+  - first:
+      4: 400034
+    second: //RootNode
+  - first:
+      4: 400036
+    second: Root
+  - first:
+      4: 400038
+    second: Root_break
+  - first:
+      4: 400040
+    second: Tower
+  - first:
+      4: 400042
+    second: transformSRUAP_ChaosInhibitor
+  - first:
+      43: 4300000
+    second: transformSRUAP_ChaosInhibitor
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: transformSRUAP_ChaosInhibitor
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Destroyed
+    second: {fileID: 2100000, guid: ff1c72cd85abc2a4ca05f087bb7f826d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SRUAP_ChaosInhibitor_MAT
+    second: {fileID: 2100000, guid: fbbb36ebc8dad3b4cb54d1d94e4ae9f4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - bc2f659a6d4bbb248ae479360d9675ca
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

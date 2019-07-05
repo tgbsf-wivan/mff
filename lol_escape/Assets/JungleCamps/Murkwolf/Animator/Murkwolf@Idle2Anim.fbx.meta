@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 97d68062e01be9a44886220f5bb6f0cc
+timeCreated: 1491129503
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Buffbone_Glb_Channel_Loc
+    100002: Buffbone_Glb_Ground_Loc
+    100004: C_Buffbone_Glb_Center_Loc
+    100006: C_Buffbone_Glb_Chest_Loc
+    100008: C_Buffbone_Glb_Head_Loc
+    100010: C_Buffbone_Glb_Layout_Loc
+    100012: C_Buffbone_Glb_Overhead_Loc
+    100014: C_Head
+    100016: C_Head_L_Ear
+    100018: C_Head_R_Ear
+    100020: C_Jaw
+    100022: C_Neck
+    100024: L_Ankle
+    100026: L_Buffbone_Cstm_L_Eye
+    100028: L_Buffbone_Cstm_R_Eye
+    100030: L_Buffbone_Glb_Foot_Loc
+    100032: L_Clavicle
+    100034: L_Elbow
+    100036: L_Foot
+    100038: L_Head
+    100040: L_Head_L_Ear
+    100042: L_Head_R_Ear
+    100044: L_Hip
+    100046: L_Jaw
+    100048: L_Knee
+    100050: L_Neck
+    100052: L_Paw
+    100054: L_PawToe
+    100056: L_PawToe_inner
+    100058: L_PawToe_outer
+    100060: L_Shoulder
+    100062: L_Toe
+    100064: //RootNode
+    100066: Pelvis
+    100068: R_Ankle
+    100070: R_Buffbone_Cstm_L_Eye
+    100072: R_Buffbone_Cstm_R_Eye
+    100074: R_Buffbone_Glb_Foot_Loc
+    100076: R_Clavicle
+    100078: R_Elbow
+    100080: R_Foot
+    100082: R_Head
+    100084: R_Head_L_Ear
+    100086: R_Head_R_Ear
+    100088: R_Hip
+    100090: R_Jaw
+    100092: R_Knee
+    100094: R_Neck
+    100096: R_Paw
+    100098: R_PawToe
+    100100: R_PawToe_inner
+    100102: R_PawToe_outer
+    100104: R_Shoulder
+    100106: R_Toe
+    100108: Root
+    100110: Spine1
+    100112: Spine2
+    100114: Spine3
+    100116: Tail1
+    100118: Tail2
+    100120: Tail3
+    100122: Tail4
+    400000: Buffbone_Glb_Channel_Loc
+    400002: Buffbone_Glb_Ground_Loc
+    400004: C_Buffbone_Glb_Center_Loc
+    400006: C_Buffbone_Glb_Chest_Loc
+    400008: C_Buffbone_Glb_Head_Loc
+    400010: C_Buffbone_Glb_Layout_Loc
+    400012: C_Buffbone_Glb_Overhead_Loc
+    400014: C_Head
+    400016: C_Head_L_Ear
+    400018: C_Head_R_Ear
+    400020: C_Jaw
+    400022: C_Neck
+    400024: L_Ankle
+    400026: L_Buffbone_Cstm_L_Eye
+    400028: L_Buffbone_Cstm_R_Eye
+    400030: L_Buffbone_Glb_Foot_Loc
+    400032: L_Clavicle
+    400034: L_Elbow
+    400036: L_Foot
+    400038: L_Head
+    400040: L_Head_L_Ear
+    400042: L_Head_R_Ear
+    400044: L_Hip
+    400046: L_Jaw
+    400048: L_Knee
+    400050: L_Neck
+    400052: L_Paw
+    400054: L_PawToe
+    400056: L_PawToe_inner
+    400058: L_PawToe_outer
+    400060: L_Shoulder
+    400062: L_Toe
+    400064: //RootNode
+    400066: Pelvis
+    400068: R_Ankle
+    400070: R_Buffbone_Cstm_L_Eye
+    400072: R_Buffbone_Cstm_R_Eye
+    400074: R_Buffbone_Glb_Foot_Loc
+    400076: R_Clavicle
+    400078: R_Elbow
+    400080: R_Foot
+    400082: R_Head
+    400084: R_Head_L_Ear
+    400086: R_Head_R_Ear
+    400088: R_Hip
+    400090: R_Jaw
+    400092: R_Knee
+    400094: R_Neck
+    400096: R_Paw
+    400098: R_PawToe
+    400100: R_PawToe_inner
+    400102: R_PawToe_outer
+    400104: R_Shoulder
+    400106: R_Toe
+    400108: Root
+    400110: Spine1
+    400112: Spine2
+    400114: Spine3
+    400116: Tail1
+    400118: Tail2
+    400120: Tail3
+    400122: Tail4
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

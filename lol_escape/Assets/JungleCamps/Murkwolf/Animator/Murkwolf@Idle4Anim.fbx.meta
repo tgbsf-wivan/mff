@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 6c7b5bd073e63f043ad48b8eb5e23596
+timeCreated: 1491131053
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: C_Buffbone_Glb_Chest_Loc
+    100002: C_Buffbone_Glb_Head_Loc
+    100004: C_Head
+    100006: C_Head_L_Ear
+    100008: C_Head_R_Ear
+    100010: C_Jaw
+    100012: C_Neck
+    100014: L_Ankle
+    100016: L_Buffbone_Cstm_L_Eye
+    100018: L_Buffbone_Cstm_R_Eye
+    100020: L_Buffbone_Glb_Foot_Loc
+    100022: L_Clavicle
+    100024: L_Elbow
+    100026: L_Foot
+    100028: L_Head
+    100030: L_Head_L_Ear
+    100032: L_Head_R_Ear
+    100034: L_Hip
+    100036: L_Jaw
+    100038: L_Knee
+    100040: L_Neck
+    100042: L_Paw
+    100044: L_PawToe
+    100046: L_PawToe_inner
+    100048: L_PawToe_outer
+    100050: L_Shoulder
+    100052: L_Toe
+    100054: //RootNode
+    100056: Pelvis
+    100058: R_Ankle
+    100060: R_Buffbone_Cstm_L_Eye
+    100062: R_Buffbone_Cstm_R_Eye
+    100064: R_Buffbone_Glb_Foot_Loc
+    100066: R_Clavicle
+    100068: R_Elbow
+    100070: R_Foot
+    100072: R_Head
+    100074: R_Head_L_Ear
+    100076: R_Head_R_Ear
+    100078: R_Hip
+    100080: R_Jaw
+    100082: R_Knee
+    100084: R_Neck
+    100086: R_Paw
+    100088: R_PawToe
+    100090: R_PawToe_inner
+    100092: R_PawToe_outer
+    100094: R_Shoulder
+    100096: R_Toe
+    100098: Root
+    100100: Spine1
+    100102: Spine2
+    100104: Spine3
+    100106: Tail1
+    100108: Tail2
+    100110: Tail3
+    100112: Tail4
+    400000: C_Buffbone_Glb_Chest_Loc
+    400002: C_Buffbone_Glb_Head_Loc
+    400004: C_Head
+    400006: C_Head_L_Ear
+    400008: C_Head_R_Ear
+    400010: C_Jaw
+    400012: C_Neck
+    400014: L_Ankle
+    400016: L_Buffbone_Cstm_L_Eye
+    400018: L_Buffbone_Cstm_R_Eye
+    400020: L_Buffbone_Glb_Foot_Loc
+    400022: L_Clavicle
+    400024: L_Elbow
+    400026: L_Foot
+    400028: L_Head
+    400030: L_Head_L_Ear
+    400032: L_Head_R_Ear
+    400034: L_Hip
+    400036: L_Jaw
+    400038: L_Knee
+    400040: L_Neck
+    400042: L_Paw
+    400044: L_PawToe
+    400046: L_PawToe_inner
+    400048: L_PawToe_outer
+    400050: L_Shoulder
+    400052: L_Toe
+    400054: //RootNode
+    400056: Pelvis
+    400058: R_Ankle
+    400060: R_Buffbone_Cstm_L_Eye
+    400062: R_Buffbone_Cstm_R_Eye
+    400064: R_Buffbone_Glb_Foot_Loc
+    400066: R_Clavicle
+    400068: R_Elbow
+    400070: R_Foot
+    400072: R_Head
+    400074: R_Head_L_Ear
+    400076: R_Head_R_Ear
+    400078: R_Hip
+    400080: R_Jaw
+    400082: R_Knee
+    400084: R_Neck
+    400086: R_Paw
+    400088: R_PawToe
+    400090: R_PawToe_inner
+    400092: R_PawToe_outer
+    400094: R_Shoulder
+    400096: R_Toe
+    400098: Root
+    400100: Spine1
+    400102: Spine2
+    400104: Spine3
+    400106: Tail1
+    400108: Tail2
+    400110: Tail3
+    400112: Tail4
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

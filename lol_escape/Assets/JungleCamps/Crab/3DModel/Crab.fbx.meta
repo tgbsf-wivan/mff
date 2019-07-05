@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: a3d7630db87555f4eb6d8450cdb95e24
+timeCreated: 1492209171
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Buffbone_Cstm_L_Foot
+    100002: Buffbone_Cstm_R_Foot
+    100004: Buffbone_Glb_Channel_Loc
+    100006: Buffbone_Glb_Ground_Loc
+    100008: Buffbone_Glb_Weapon_1
+    100010: C_Buffbone_Glb_Center_Loc
+    100012: C_Buffbone_Glb_Chest_Loc
+    100014: C_Buffbone_Glb_Head_Loc
+    100016: C_Buffbone_Glb_Layout_Loc
+    100018: C_Buffbone_Glb_Overhead_Loc
+    100020: //RootNode
+    100022: Crab
+    100024: L_Back_Ankle
+    100026: L_Back_Foot
+    100028: L_Back_Hip
+    100030: L_Back_Knee
+    100032: L_Buffbone_Glb_Foot_Loc
+    100034: L_Buffbone_Glb_Hand_Loc
+    100036: L_Claw
+    100038: L_Elbow
+    100040: L_Eye
+    100042: L_Front_Ankle
+    100044: L_Front_Foot
+    100046: L_Front_Hip
+    100048: L_Front_Knee
+    100050: L_Mid_Ankle
+    100052: L_Mid_Foot
+    100054: L_Mid_Hip
+    100056: L_Mid_Knee
+    100058: L_Mouth
+    100060: L_Shoulder
+    100062: L_Stalk1
+    100064: L_Stalk2
+    100066: L_Stalk3
+    100068: L_Stalk4
+    100070: L_Stalk5
+    100072: L_Stalk6
+    100074: L_Stalk_Tip
+    100076: L_Wrist
+    100078: R_Back_Ankle
+    100080: R_Back_Foot
+    100082: R_Back_Hip
+    100084: R_Back_Knee
+    100086: R_Buffbone_Glb_Foot_Loc
+    100088: R_Buffbone_Glb_Hand_Loc
+    100090: R_Claw
+    100092: R_Elbow
+    100094: R_Eye
+    100096: R_Front_Ankle
+    100098: R_Front_Foot
+    100100: R_Front_Hip
+    100102: R_Front_Knee
+    100104: R_Mid_Ankle
+    100106: R_Mid_Foot
+    100108: R_Mid_Hip
+    100110: R_Mid_Knee
+    100112: R_Mouth
+    100114: R_Shoulder
+    100116: R_Stalk1
+    100118: R_Stalk2
+    100120: R_Stalk3
+    100122: R_Stalk4
+    100124: R_Stalk5
+    100126: R_Stalk6
+    100128: R_Stalk_Tip
+    100130: R_Wrist
+    100132: Root
+    100134: transformSru_Crab
+    400000: Buffbone_Cstm_L_Foot
+    400002: Buffbone_Cstm_R_Foot
+    400004: Buffbone_Glb_Channel_Loc
+    400006: Buffbone_Glb_Ground_Loc
+    400008: Buffbone_Glb_Weapon_1
+    400010: C_Buffbone_Glb_Center_Loc
+    400012: C_Buffbone_Glb_Chest_Loc
+    400014: C_Buffbone_Glb_Head_Loc
+    400016: C_Buffbone_Glb_Layout_Loc
+    400018: C_Buffbone_Glb_Overhead_Loc
+    400020: //RootNode
+    400022: Crab
+    400024: L_Back_Ankle
+    400026: L_Back_Foot
+    400028: L_Back_Hip
+    400030: L_Back_Knee
+    400032: L_Buffbone_Glb_Foot_Loc
+    400034: L_Buffbone_Glb_Hand_Loc
+    400036: L_Claw
+    400038: L_Elbow
+    400040: L_Eye
+    400042: L_Front_Ankle
+    400044: L_Front_Foot
+    400046: L_Front_Hip
+    400048: L_Front_Knee
+    400050: L_Mid_Ankle
+    400052: L_Mid_Foot
+    400054: L_Mid_Hip
+    400056: L_Mid_Knee
+    400058: L_Mouth
+    400060: L_Shoulder
+    400062: L_Stalk1
+    400064: L_Stalk2
+    400066: L_Stalk3
+    400068: L_Stalk4
+    400070: L_Stalk5
+    400072: L_Stalk6
+    400074: L_Stalk_Tip
+    400076: L_Wrist
+    400078: R_Back_Ankle
+    400080: R_Back_Foot
+    400082: R_Back_Hip
+    400084: R_Back_Knee
+    400086: R_Buffbone_Glb_Foot_Loc
+    400088: R_Buffbone_Glb_Hand_Loc
+    400090: R_Claw
+    400092: R_Elbow
+    400094: R_Eye
+    400096: R_Front_Ankle
+    400098: R_Front_Foot
+    400100: R_Front_Hip
+    400102: R_Front_Knee
+    400104: R_Mid_Ankle
+    400106: R_Mid_Foot
+    400108: R_Mid_Hip
+    400110: R_Mid_Knee
+    400112: R_Mouth
+    400114: R_Shoulder
+    400116: R_Stalk1
+    400118: R_Stalk2
+    400120: R_Stalk3
+    400122: R_Stalk4
+    400124: R_Stalk5
+    400126: R_Stalk6
+    400128: R_Stalk_Tip
+    400130: R_Wrist
+    400132: Root
+    400134: transformSru_Crab
+    4300000: transformSru_Crab
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: transformSru_Crab
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Buffbone_Cstm_L_Foot
+        weight: 1
+      - path: Buffbone_Cstm_R_Foot
+        weight: 1
+      - path: Buffbone_Glb_Channel_Loc
+        weight: 1
+      - path: Buffbone_Glb_Ground_Loc
+        weight: 1
+      - path: C_Buffbone_Glb_Center_Loc
+        weight: 1
+      - path: C_Buffbone_Glb_Layout_Loc
+        weight: 1
+      - path: C_Buffbone_Glb_Overhead_Loc
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/C_Buffbone_Glb_Chest_Loc
+        weight: 1
+      - path: Root/Crab
+        weight: 1
+      - path: Root/Crab/Buffbone_Glb_Weapon_1
+        weight: 1
+      - path: Root/Crab/C_Buffbone_Glb_Head_Loc
+        weight: 1
+      - path: Root/Crab/L_Back_Hip
+        weight: 1
+      - path: Root/Crab/L_Back_Hip/L_Back_Knee
+        weight: 1
+      - path: Root/Crab/L_Back_Hip/L_Back_Knee/L_Back_Ankle
+        weight: 1
+      - path: Root/Crab/L_Back_Hip/L_Back_Knee/L_Back_Ankle/L_Back_Foot
+        weight: 1
+      - path: Root/Crab/L_Eye
+        weight: 1
+      - path: Root/Crab/L_Front_Hip
+        weight: 1
+      - path: Root/Crab/L_Front_Hip/L_Front_Knee
+        weight: 1
+      - path: Root/Crab/L_Front_Hip/L_Front_Knee/L_Front_Ankle
+        weight: 1
+      - path: Root/Crab/L_Front_Hip/L_Front_Knee/L_Front_Ankle/L_Front_Foot
+        weight: 1
+      - path: Root/Crab/L_Mid_Hip
+        weight: 1
+      - path: Root/Crab/L_Mid_Hip/L_Mid_Knee
+        weight: 1
+      - path: Root/Crab/L_Mid_Hip/L_Mid_Knee/L_Mid_Ankle
+        weight: 1
+      - path: Root/Crab/L_Mid_Hip/L_Mid_Knee/L_Mid_Ankle/L_Buffbone_Glb_Foot_Loc
+        weight: 1
+      - path: Root/Crab/L_Mid_Hip/L_Mid_Knee/L_Mid_Ankle/L_Mid_Foot
+        weight: 1
+      - path: Root/Crab/L_Mouth
+        weight: 1
+      - path: Root/Crab/L_Shoulder
+        weight: 1
+      - path: Root/Crab/L_Shoulder/L_Elbow
+        weight: 1
+      - path: Root/Crab/L_Shoulder/L_Elbow/L_Wrist
+        weight: 1
+      - path: Root/Crab/L_Shoulder/L_Elbow/L_Wrist/L_Buffbone_Glb_Hand_Loc
+        weight: 1
+      - path: Root/Crab/L_Shoulder/L_Elbow/L_Wrist/L_Claw
+        weight: 1
+      - path: Root/Crab/L_Stalk1
+        weight: 1
+      - path: Root/Crab/L_Stalk1/L_Stalk2
+        weight: 1
+      - path: Root/Crab/L_Stalk1/L_Stalk2/L_Stalk3
+        weight: 1
+      - path: Root/Crab/L_Stalk1/L_Stalk2/L_Stalk3/L_Stalk4
+        weight: 1
+      - path: Root/Crab/L_Stalk1/L_Stalk2/L_Stalk3/L_Stalk4/L_Stalk5
+        weight: 1
+      - path: Root/Crab/L_Stalk1/L_Stalk2/L_Stalk3/L_Stalk4/L_Stalk5/L_Stalk6
+        weight: 1
+      - path: Root/Crab/L_Stalk1/L_Stalk2/L_Stalk3/L_Stalk4/L_Stalk5/L_Stalk_Tip
+        weight: 1
+      - path: Root/Crab/R_Back_Hip
+        weight: 1
+      - path: Root/Crab/R_Back_Hip/R_Back_Knee
+        weight: 1
+      - path: Root/Crab/R_Back_Hip/R_Back_Knee/R_Back_Ankle
+        weight: 1
+      - path: Root/Crab/R_Back_Hip/R_Back_Knee/R_Back_Ankle/R_Back_Foot
+        weight: 1
+      - path: Root/Crab/R_Eye
+        weight: 1
+      - path: Root/Crab/R_Front_Hip
+        weight: 1
+      - path: Root/Crab/R_Front_Hip/R_Front_Knee
+        weight: 1
+      - path: Root/Crab/R_Front_Hip/R_Front_Knee/R_Front_Ankle
+        weight: 1
+      - path: Root/Crab/R_Front_Hip/R_Front_Knee/R_Front_Ankle/R_Front_Foot
+        weight: 1
+      - path: Root/Crab/R_Mid_Hip
+        weight: 1
+      - path: Root/Crab/R_Mid_Hip/R_Mid_Knee
+        weight: 1
+      - path: Root/Crab/R_Mid_Hip/R_Mid_Knee/R_Mid_Ankle
+        weight: 1
+      - path: Root/Crab/R_Mid_Hip/R_Mid_Knee/R_Mid_Ankle/R_Buffbone_Glb_Foot_Loc
+        weight: 1
+      - path: Root/Crab/R_Mid_Hip/R_Mid_Knee/R_Mid_Ankle/R_Mid_Foot
+        weight: 1
+      - path: Root/Crab/R_Mouth
+        weight: 1
+      - path: Root/Crab/R_Shoulder
+        weight: 1
+      - path: Root/Crab/R_Shoulder/R_Elbow
+        weight: 1
+      - path: Root/Crab/R_Shoulder/R_Elbow/R_Wrist
+        weight: 1
+      - path: Root/Crab/R_Shoulder/R_Elbow/R_Wrist/R_Buffbone_Glb_Hand_Loc
+        weight: 1
+      - path: Root/Crab/R_Shoulder/R_Elbow/R_Wrist/R_Claw
+        weight: 1
+      - path: Root/Crab/R_Stalk1
+        weight: 1
+      - path: Root/Crab/R_Stalk1/R_Stalk2
+        weight: 1
+      - path: Root/Crab/R_Stalk1/R_Stalk2/R_Stalk3
+        weight: 1
+      - path: Root/Crab/R_Stalk1/R_Stalk2/R_Stalk3/R_Stalk4
+        weight: 1
+      - path: Root/Crab/R_Stalk1/R_Stalk2/R_Stalk3/R_Stalk4/R_Stalk5
+        weight: 1
+      - path: Root/Crab/R_Stalk1/R_Stalk2/R_Stalk3/R_Stalk4/R_Stalk5/R_Stalk6
+        weight: 1
+      - path: Root/Crab/R_Stalk1/R_Stalk2/R_Stalk3/R_Stalk4/R_Stalk5/R_Stalk_Tip
+        weight: 1
+      - path: transformSru_Crab
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
